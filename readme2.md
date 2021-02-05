@@ -1,1 +1,1 @@
-Test to reset in the terminal
+ test reset 2.0
